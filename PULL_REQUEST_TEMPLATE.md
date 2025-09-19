@@ -10,11 +10,11 @@ Explain the motivation and context for this PR.
 ## Type of Change
 Please mark the relevant options with an `x`:
 
-- [ ] 🐞 Bug fix  
-- [ ] 🚀 New feature  
-- [ ] 📝 Documentation update  
-- [ ] 🔧 Refactor / code cleanup  
-- [ ] ✅ Tests / CI improvements  
+- [ ] Bug fix  
+- [ ] New feature  
+- [ ] Documentation update  
+- [ ] Refactor / code cleanup  
+- [ ] Tests / CI improvements  
 
 ---
 
@@ -36,5 +36,5 @@ Describe how you tested your changes:
 
 ---
 
-## 📎 Additional Notes
+## Additional Notes
 Add any other relevant details, screenshots, or context here.

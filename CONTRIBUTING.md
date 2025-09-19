@@ -79,14 +79,14 @@ If you discover a security vulnerability:
 
 ---
 
-## 📜 Code of Conduct
+## Code of Conduct
 
 All contributions are governed by our [Code of Conduct](./CODE_OF_CONDUCT.md).  
 By participating, you agree to uphold a respectful and professional environment.  
 
 ---
 
-## 🙌 Thank You
+## Thank You
 
 Every contribution — whether a bug fix, feature, or docs improvement — helps make **Physical AI at the Edge** more accessible to developers worldwide.  
 We deeply appreciate your support and collaboration.  

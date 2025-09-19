@@ -20,7 +20,7 @@ If you discover a security vulnerability in a SiMa.ai project:
    Publicly disclosing a vulnerability before it is patched could put users at risk.
 
 2. Instead, please report it privately by emailing:  
-   **[security@sima.ai](mailto:security@sima.ai)**
+   **[support@sima.ai](mailto:support@sima.ai)**
 
 3. Provide as much detail as possible:
    - Affected repository and version  
