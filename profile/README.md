@@ -23,6 +23,16 @@ Our GitHub organization hosts open-source and collaborative projects that demons
   - Recipes, layers, and integration examples for MLSoC.  
 
 
+## Navigating Our Repositories
+
+To make it easier to explore, SiMa.ai repositories follow a **naming convention**:
+
+- **`pipeline-*`** → Vision AI pipeline examples (detection, segmentation, classification, etc.)  
+- **`app-*`** → Fully featured sample applications showcasing end-to-end use cases  
+- **`tool-*`** → Utilities and helper tools for development, deployment, or debugging  
+- **`tutorial-*`** → Source code accompanying tutorials and learning materials  
+
+
 ## Get Involved
 
 - Explore our repositories to see cutting-edge AI in action.  
