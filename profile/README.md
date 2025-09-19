@@ -22,10 +22,6 @@ Our GitHub organization hosts open-source and collaborative projects that demons
   - Board bring-up resources, kernel drivers, and low-level system enablement.  
   - Recipes, layers, and integration examples for MLSoC.  
 
-## Our Mission
-
-To make **AI at the Edge** effortless, scalable, and truly impactful — enabling innovators across industries to **transform the physical world with intelligence.**
-
 
 ## Get Involved
 
