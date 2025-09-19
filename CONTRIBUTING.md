@@ -1,6 +1,7 @@
 # Contributing to SiMa.ai
 
 Thank you for your interest in contributing to **SiMa.ai**!  
+
 Our mission is to make **AI at the Edge** effortless and impactful — combining **Vision, Voice, and Language AI** with **low-power, high-performance system enablement**.  
 
 We welcome contributions from the community in the form of **bug reports, feature requests, code contributions, documentation improvements, and new demos**.
@@ -89,4 +90,5 @@ By participating, you agree to uphold a respectful and professional environment.
 ## Thank You
 
 Every contribution — whether a bug fix, feature, or docs improvement — helps make **Physical AI at the Edge** more accessible to developers worldwide.  
+
 We deeply appreciate your support and collaboration.  
