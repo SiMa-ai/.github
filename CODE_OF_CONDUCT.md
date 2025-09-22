@@ -54,7 +54,7 @@ This Code of Conduct applies to all **SiMa.ai GitHub repositories**, as well as:
 
 If you experience or witness behavior that violates this Code of Conduct:
 
-- Please email **opensource@sima.ai** (or your designated contact point)  
+- Please email **support@sima.ai** (or your designated contact point)  
 - Reports will be handled with discretion and confidentiality  
 - Maintainers are committed to investigating and resolving issues fairly  
 
